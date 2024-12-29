@@ -1,6 +1,8 @@
 # Project--Java--The-Market-Maven-
 This application leverages real-time data and AI to predict stock and commodity prices, providing automated trading recommendations and displaying prices in multiple currencies for informed global trading.
 
+**To test this model, in a real-time forcast, you need to Install JDK (Java Development Kit), and the VS Code Extentions like Java, Java Run, Gradle for Java, Debugger for Java. Maven for Java, Language Support for Java, Project Management, & Test Runner for Java.**  
+
 (For the "Futre Price Forecast Feature", AI has been used under minimal circumstanace and situation to match the the level optimization and reduce the possible risk of 'Induced Latency' in the program)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
